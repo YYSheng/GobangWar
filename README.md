@@ -52,3 +52,13 @@ github地址：[Gobang](https://github.com/YYSheng/Gobang)
 #### 五.许可证
 本项目使用[MIT](https://choosealicense.com/licenses/mit/)许可证
 
+**************
+
+###### 2017-04-24更新：
+> 1.新增难度选择按钮，实现了简单和中级两个难度的算法。
+ 2.新增悔棋按钮。
+3.代码库移动到[最新](https://github.com/YYSheng/GobangWar)的仓库位置，上述代码链接已修改
+
+*************
+
+
